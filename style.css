@@ -1,0 +1,20 @@
+/*recipe-header__summary Start*/
+.recipe-header__summary {
+    display: flex;
+    padding: 10px;
+    background-color: #F5FAF4;
+    justify-content: space-around;
+}
+.recipe-header__summary .icon {
+    text-align: center;
+    padding: 5px;
+    font-size: 35px;
+    color: #2f6147;
+}
+.recipe-header__summary a {
+    padding: 10px;
+}
+.recipe-header__summary .text {
+    color: #2f6147;
+}
+/*recipe-header__summary End*/
